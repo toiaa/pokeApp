@@ -1,6 +1,6 @@
 https://poke-app-taupe-phi.vercel.app/
 
-I build this NFT app with the thirdweb package, to write and deploy the contracts.
+I build this NFT app with nextJS and css for the frontend and the thirdweb package, to write and deploy the contracts.
 
 ## Getting Started
 
