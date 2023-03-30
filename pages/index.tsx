@@ -40,6 +40,7 @@ const Home: NextPage = () => {
               >
                 <ThirdwebNftMedia metadata={nft.metadata} />
                 <p className={styles.title}>{nft.metadata.name}</p>
+                <p className={styles.title}>{nft.quantityOwned}</p>
               </div>
             );
           })}
